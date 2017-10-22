@@ -1,5 +1,5 @@
-# Redux-Action-Type-Creator
-Create namespaced, easy to use Action Types
+# Redux Action Type Creator
+Create unique, easy to use Action Types
 
 ## Install
 
